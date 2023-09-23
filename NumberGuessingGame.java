@@ -50,13 +50,13 @@ public class NumberGuessingGame
 						
 					case 1:
 						
-						System.out.println("  ____________________________________ ");
-						System.out.println(" |                                    |");
-						System.out.println(" |          Start level "+level+"             |");
-						System.out.println(" |____________________________________|");
-						System.out.println(" |                                    |");
-						System.out.println(" |If you right guss-3time than you WIN|");
-						System.out.println(" |____________________________________|");
+						System.out.println("  _____________________________________ ");
+						System.out.println(" |                                     |");
+						System.out.println(" |            Start level "+level+"            |");
+						System.out.println(" |_____________________________________|");
+						System.out.println(" |                                     |");
+						System.out.println(" |If you right guess-3time than you WIN|");
+						System.out.println(" |_____________________________________|");
 					
 						int ok=1;
 					
